@@ -1,0 +1,9 @@
+Original source file provided by the user:
+speech_emotion_recognition_final_project_code.py
+
+This repo contains a cleaned, GitHub-ready version of that code with:
+- notebook/Colab-specific install lines removed
+- Windows-only npm/build-tool lines removed
+- modularized feature extraction
+- saved model support
+- single-file prediction script
